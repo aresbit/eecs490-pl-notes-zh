@@ -1,0 +1,8 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+title: "编程语言原理与范式 (Programming Language Principles and Paradigms)"
+description: "EECS 490 课程笔记中文译本 — 含详细推导逻辑与扩写"
+lang: zh-CN
